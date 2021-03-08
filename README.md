@@ -1,0 +1,2 @@
+# SQL4CSV
+windows上で大体入っているADODBを使ってcsvファイルからSQL抽出を行うソフト
